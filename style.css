@@ -165,3 +165,86 @@ blockquote {
 	width:900px;
 	margin: 0 auto;
 }
+/*Content*/
+#conteiner {
+	padding-top: 40px;
+}
+
+#content {
+	width: 516px;
+	float:left;
+	padding: 0 50px 0 32px;
+}
+#content_header {
+	font-size: 25px;
+	color: #fff;
+	text-transform:uppercase;
+	background: #1a1e27;
+	margin-bottom: 15px;
+	width: 270px;
+}
+
+.post {
+	margin-bottom: 40px;
+}
+
+.post h2 a {
+	font-size: 24px;
+	color:#4a4d54;
+	text-transform:capitalize;
+}
+
+.cat {
+	padding-right:7px;
+	border-right: 1px solid #fff;
+}
+
+.cat a {
+	font-style:italic;
+}
+
+.date {
+	padding-left: 7px;
+	border-left: 1px solid #d5d5d5;
+	margin-left: -4px;
+}
+
+.date_text {
+	font-style:italic;
+	color: #868686;
+}
+
+.phead {
+	margin-bottom: 10px;
+}
+
+.post img {
+	border: 1px solid #c6c6c6;
+	padding: 2px;
+	float:left;
+	margin-right: 5px;
+}
+
+.post p {
+	padding-left: 153px;
+}
+
+.meta_bottom {
+	margin: 10px 0 0 153px;
+	line-height: 1.5;
+	border-top: 1px solid #c7c7c7;
+}
+
+.more-link {
+	float:right;
+	margin-top: 15px;
+	display:block;
+	padding: 5px;
+	background: #797979;
+	color: #fff;
+}
+.more-link:hover {
+	text-decoration:none;
+	background: #949393;
+	color: #ccc;
+}
